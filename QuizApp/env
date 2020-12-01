@@ -1,8 +1,8 @@
 APP_NAME=Laravel
 APP_ENV=local
-APP_KEY=
+APP_KEY=base64:2wTsKGxo47exidk4rdzo9XjjkBD3ChSZ9h6ZnuEHpnQ=
 APP_DEBUG=true
-APP_URL=http://localhost
+APP_URL=http://QuizApp.test
 
 LOG_CHANNEL=stack
 LOG_LEVEL=debug
