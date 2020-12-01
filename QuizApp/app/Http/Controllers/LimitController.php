@@ -110,7 +110,7 @@ class LimitController extends Controller
         // return $getQuestions;
 
         // $GetJsonQuestion = $getQuestions->toJson();
-        $GetJsonQuestion = json_encode($getQuestions);;
+        $GetJsonQuestion = ($getQuestions);;
 
         $totalQuestions =  (count($getQuestions));
 
